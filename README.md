@@ -1,2 +1,2 @@
 # Machine_Learning
-Tugas pertemuan 4-6
+Pengumpulan Tugas
